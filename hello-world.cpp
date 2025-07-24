@@ -4,4 +4,4 @@ int main() {
 	return 0;
 }
 
-# & is used to pass an argument by reference, and not by value
+// & is used to pass an argument by reference, and not by value

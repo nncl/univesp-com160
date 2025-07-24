@@ -4,7 +4,7 @@ void printMessage(int num) {
 	std::cout << num << std::endl;
 }
 
-void change(int arr[]){
+void change(const int arr[]){
 	arr[0] = 10;
 }
 
